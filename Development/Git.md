@@ -136,19 +136,25 @@ Tells about all logs
  
          git reflag      
 
-Git with global 
+**Git global**
         
         git config --global 
         git config --global --list
         git config --global --list --all
 
-Git Remote 
+**Git Remote** 
         
         git remote add origin https://github.com/username/repo.git
         git remote -v
         git remote set-url origin https://github.com/username/repo.git 
         git remote rm origin
         
+**Git Config global**
+
+
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"        
+
 # Step to create a git repo / gitlab repo 
 
  step 1 :  create a repo on the site.
