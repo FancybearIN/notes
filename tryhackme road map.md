@@ -1,118 +1,84 @@
-Here's the tryhackme roadmap with checkboxes :
+Alright, here's a breakdown of TryHackMe's free rooms categorized by topic, aligning with the roadmap:
 
-### Month 1: Beginner to Intermediate (100 Rooms)
-**Week 1-2: Introduction and Basics**
-1. **Pre-Security Path:**
-   - [ ] Introduction to Cyber Security
-   - [ ] Basics of Networking
-   - [ ] Basics of Cryptography
-   - [ ] Introduction to Offensive Security
+Month 1: Foundations (Beginner)
 
-2. **Complete Beginner Path:**
-   - [ ] Introduction to Web Hacking
-   - [ ] Introduction to Pentesting
-   - [ ] Introduction to Linux
-   - [ ] Introduction to Windows
+Week 1-2: Introduction & Basics
 
-**Week 3-4: Intermediate Basics**
-1. **Individual Rooms Focused on Key Skills:**
-   - [ ] Linux Fundamentals (Part 1)
-   - [ ] Linux Fundamentals (Part 2)
-   - [ ] Linux Fundamentals (Part 3)
-   - [ ] Windows Fundamentals (Part 1)
-   - [ ] Windows Fundamentals (Part 2)
-   - [ ] Windows Fundamentals (Part 3)
-   - [ ] Web Fundamentals (Part 1)
-   - [ ] Web Fundamentals (Part 2)
-   - [ ] Web Fundamentals (Part 3)
-   - [ ] Network Security (Part 1)
-   - [ ] Network Security (Part 2)
+Web Pentesting:
+[x] Introduction to Web Hacking (Free)
+[x] Web Fundamentals (Part 1) (Free)
+[x] Web Fundamentals (Part 2) (Free)
+[x] Web Fundamentals (Part 3) (Free)
+Network Pentesting:
+[x] Introduction to Networking (Free)
+[x] Network Security (Part 1) (Free)
+[x] Network Security (Part 2) (Free)
+[x] Linux Fundamentals (Part 1) (Free)
+[x] Linux Fundamentals (Part 2) (Free)
+[X]
+Week 3-4: Core Skills
 
-### Month 2: Intermediate to Advanced (100 Rooms)
-**Week 5-6: Specialized Skills Development**
-1. **Learning Paths Related to Hacking Techniques:**
-   - [ ] Introduction to Web Hacking
-   - [ ] OWASP Top 10
-   - [ ] Active Directory Basics
+Web Pentesting:
+[x] OWASP Top 10 (Free)
+[x] Cross-Site Scripting (XSS) (Free)
+[x] SQL Injection (Free)
+[x] Command Injection (Free)
+Network Pentesting:
+[x] Nmap (Free)
+[x] Linux Fundamentals (Part 3) (Free)
+[x] Windows Fundamentals (Part 1) (Free)
+[x] Windows Fundamentals (Part 2) (Free)
+Month 2: Intermediate Skills
 
-2. **Rooms Focused on Tools:**
-   - [ ] Nmap
-   - [ ] Metasploit
-   - [ ] Burp Suite
+Week 5-6: Web Pentesting Techniques
 
-**Week 7-8: Intermediate Capture the Flag (CTF) Practice**
-1. **CTF Practice Rooms:**
-   - [ ] Easy CTF
-   - [ ] Advent of Cyber (if available)
-   - [ ] CTF Collections (Various rooms under CTF collections)
+Web Pentesting:
+[x] Simple CTF (Free)
+[x] Juice Shop (Free)
+[x] DVWA (Damn Vulnerable Web Application) (Free)
+[x] Web Scanning (Free)
+[x] Advanced SQL Injection (Free)
+Week 7-8: Network Pentesting Techniques
 
-### Month 3: Advanced Skills and Real-World Scenarios (50 Rooms)
-**Week 9-10: Advanced Techniques and Exploitation**
-1. **Advanced Technique Rooms:**
-   - [ ] Privilege Escalation (Windows)
-   - [ ] Privilege Escalation (Linux)
-   - [ ] Web Application Security (Advanced topics)
-   - [ ] Active Directory Attack and Defense
+Network Pentesting:
+[x] Metasploit (Free)
+[x] Windows Fundamentals (Part 3) (Free)
+[x] Network Scanning (Free)
+[x] Enumeration (Free)
+[x] Privilege Escalation (Linux) (Free)
+Month 3: Advanced Skills & Real-World Scenarios
 
-2. **Real-World Scenarios:**
-   - [ ] Attacktive Directory
-   - [ ] The Marketplace
-   - [ ] Throwback
+Week 9-10: Web Pentesting Deep Dive
 
-**Week 11-12: Advanced CTFs and Skill Polishing**
-1. **Advanced CTF Rooms:**
-   - [ ] Pickle Rick
-   - [ ] Ice
-   - [ ] Wgel CTF
-   - [ ] The Cod Caper
+Web Pentesting:
+[x] Brute It (Free)
+[x] Inclusion (Free)
+[x] Blob Storage (Free)
+[x] Server-Side Request Forgery (SSRF) (Free)
+[x] Insecure Deserialization (Free)
+Week 11-12: Network Pentesting Deep Dive
 
-2. **Review and Polish Key Areas:**
-   - [ ] Revise difficult topics or rooms you struggled with
-   - [ ] Participate in TryHackMe community events and challenges
-   - [ ] Practice writing reports for completed rooms
+Network Pentesting:
+[x] Active Directory Basics (Free)
+[x] Privilege Escalation (Windows) (Free)
+[x] Attacktive Directory (Free)
+[x] The Marketplace (Free)
+[x] Throwback (Free)
+Month 4: Consolidation & Practice
 
-### Month 4: Web Pentesting Specialization (50 Rooms)
-**Week 13-14: Foundational Web Pentesting**
-1. **Web Fundamentals Path:**
-   - [ ] Web Fundamentals Part 1
-   - [ ] Web Fundamentals Part 2
-   - [ ] Web Fundamentals Part 3
+Web Pentesting:
+[x] Review and practice all previously completed web pentesting rooms.
+[x] Participate in TryHackMe community challenges related to web security.
+Network Pentesting:
+[x] Review and practice all previously completed network pentesting rooms.
+[x] Participate in TryHackMe community challenges related to network security.
+Additional Free Rooms:
 
-2. **Specific Web Attack Vectors:**
-   - [ ] Cross-Site Scripting (XSS)
-   - [ ] SQL Injection
-   - [ ] Command Injection
+CTF Practice:
+[x] Easy CTF (Free)
+[x] Advent of Cyber (Free)
+[x] CTF Collections (Free) - Contains various free CTF rooms.
+Important Note: TryHackMe's room availability can change, so always check the platform for the most up-to-date information.
 
-3. **Beginner to Intermediate Web CTFs:**
-   - [ ] Simple CTF
-   - [ ] Juice Shop
-   - [ ] DVWA (Damn Vulnerable Web Application)
+This list provides a comprehensive overview of TryHackMe's free rooms, categorized by topic and aligned with the roadmap. Remember to practice consistently, explore different rooms, and engage with the community to enhance your skills!
 
-**Week 15-16: Advanced Web Pentesting**
-1. **Advanced Web Attack Vectors:**
-   - [ ] Server-Side Request Forgery (SSRF)
-   - [ ] Insecure Deserialization
-   - [ ] Web Application Firewalls (WAF) Evasion
-
-2. **Advanced Web Pentesting Rooms:**
-   - [ ] Web Scanning
-   - [ ] Advanced SQL Injection
-   - [ ] CORS Exploitation
-
-3. **Advanced Web CTFs:**
-   - [ ] Brute It
-   - [ ] Inclusion
-   - [ ] Blob Storage
-
-### Daily and Weekly Goals
-- **Daily Goal:** Complete 3-4 rooms per day.
-- **Weekly Goal:** Aim to complete 20-30 rooms weekly.
-
-### Tracking Progress and Skill Enhancement
-- **Maintain a Journal:** Keep a log of completed rooms, key learnings, and areas needing improvement.
-- **Active Participation:** Engage in TryHackMe discussions and forums for additional tips and support.
-
-### Additional Tips for Web Pentesting
-- **Use Web Pentesting Tools:** Get hands-on with tools like Burp Suite, OWASP ZAP, and Nikto.
-- **Practice Regularly:** Consistent practice on diverse web applications will sharpen your skills.
-- **Stay Updated:** Follow the latest trends and updates in web security to stay ahead in the field.
