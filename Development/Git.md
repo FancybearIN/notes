@@ -4,7 +4,7 @@ To initialize a new repository in Git, use the following command:
 
     $ git init
 
-This will create a new .git directory in your current working directory, which will contain all of the Git metadata for your repository.
+This will create a new .git directory in your current working directory, which will contain all of the Git metadata for your repository..
 
 ## Default Branches:
 
