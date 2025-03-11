@@ -12,7 +12,7 @@
 
 ## [[WEB RECON & FOOT-PRINTING]]
 
-- [[Google_Dork]]
+- [[google_Dork]]
 - [[OSINT]]
 	
   

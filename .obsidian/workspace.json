@@ -1,58 +1,206 @@
 {
   "main": {
-    "id": "fc700c4371604d17",
+    "id": "babd434ac7e13a03",
     "type": "split",
     "children": [
       {
-        "id": "5ec07c7f08024306",
+        "id": "3119e32a979b926b",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4ed8a9c13f80b4",
+            "id": "5e3699c8f88b9964",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3978804b83a06e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily dairy/2024-10-31.md",
+                "file": "devops cover letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-31"
+              "title": "devops cover letter"
+            }
+          },
+          {
+            "id": "a5194137ec3e90dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cyber security"
+            }
+          },
+          {
+            "id": "ad8711a46299e3e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "565975a6572668a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cyber security"
+            }
+          },
+          {
+            "id": "e7f9e285a4fc0e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobsf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mobsf"
+            }
+          },
+          {
+            "id": "978d64c846fc00f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "4234385ffef4d0b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android pentesting with medium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Android pentesting with medium"
+            }
+          },
+          {
+            "id": "22ac279f8b682da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yaml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yaml"
+            }
+          },
+          {
+            "id": "b68e9e0d0396e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cors"
+            }
+          },
+          {
+            "id": "f9ff3ceff854f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/interview content/cover & cold letter fromat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cover & cold letter fromat"
+            }
+          },
+          {
+            "id": "c72ef740a464a71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/interview content/cover & cold letter fromat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cover & cold letter fromat"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "42ca43590b6406f6",
+    "id": "dc693812b2eaf699",
     "type": "split",
     "children": [
       {
-        "id": "4fa39154486879da",
+        "id": "c9ee65675da148d0",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd3a6ea8d270124",
+            "id": "2eb51a2e06341eee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "04d28c5be4dd6ff3",
+            "id": "b45c394615672b41",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +212,7 @@
             }
           },
           {
-            "id": "23ce50e8eec87250",
+            "id": "3e5a34bf014dbbf7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +228,19 @@
     "width": 300
   },
   "right": {
-    "id": "16171a4460fd301b",
+    "id": "2777ea9783e8cff2",
     "type": "split",
     "children": [
       {
-        "id": "b246c4919f3004f5",
+        "id": "7212076463b3e44c",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb589bbf23cfea8",
+            "id": "27f93ff620329a9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/find Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +250,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for find Command"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "77306eda3b2efb82",
+            "id": "087105249ef1cc5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/find Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from find Command"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "facd0fabd7a1f04a",
+            "id": "e762af27852b9674",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,25 +280,18 @@
             }
           },
           {
-            "id": "4716a35ff890aa95",
+            "id": "12aa667b0da143d1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily dairy/2024-10-31.md"
+                "file": "notes/interview content/cover & cold letter fromat.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-31"
-            }
-          },
-          {
-            "id": "a93718506da54987",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of cover & cold letter fromat"
             }
           }
         ],
@@ -160,40 +299,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3c4ed8a9c13f80b4",
+  "active": "c72ef740a464a71b",
   "lastOpenFiles": [
-    "projects/find Command.md",
-    "2024-10-31.md",
-    "Excalidraw/Drawing 2024-09-14 15.09.25.excalidraw.md",
+    "personal/Mobsf.md",
+    "notes",
+    "personal",
+    "notes/interview content/cover & cold letter fromat.md",
+    "yaml.md",
+    "Pasted image 20250311191156.png",
+    "notes/cloud/assets/Screenshot 2025-03-11 190837.png",
+    "assets/Screenshot 2025-03-11 190837 1.png",
+    "notes/cloud/assets",
+    "notes/Android/security/Android pentesting with medium.md",
+    "Cybersecruity interview perp.md",
+    "cyber security.md",
+    "class 101.md",
+    "notes/Android/security",
+    "notes/Android",
+    "notes/Excalidraw/Drawing 2025-03-11 18.53.40.excalidraw.md",
+    "notes/interview content",
     "README.md",
     "Untitled.md",
-    "idor at clouddefenseai.com.md",
-    "Development/Git.md",
-    "cloud/Devsecops.md",
-    "cloud/Foundations_of_Cloud_and_AWS.md",
-    "cloud/Foundations.md",
-    "Foundations of Cloud and AWS.md",
-    "**[Foundations.md",
-    "cloud",
-    "daily dairy/2024-10-31.md",
-    "Secuirty Notes/Prototype pollution/Prototype pollution.md",
-    "Secuirty Notes/CSRF/csrf.md"
+    "Untitled 1.md",
+    "notes/Cybersecruity Interview/Cors.md",
+    "notes/Cybersecruity Interview",
+    "Excalidraw/Drawing 2025-03-11 18.40.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-15 19.32.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-14 15.09.25.excalidraw.md",
+    "deepak.txt",
+    "notes/Secuirty Notes/IDOR/Access Control/Broken_Access_Control.md",
+    "notes/Secuirty Notes/IDOR/Access Control/Attack_Checklist.md",
+    "notes/Secuirty Notes/IDOR/Insecure deserialization.md",
+    "notes/Secuirty Notes/Websockets/websockets.md",
+    "notes/Secuirty Notes/os_command/os_command.md",
+    "notes/Secuirty Notes/Prototype pollution/Prototype pollution.md",
+    "notes/Secuirty Notes/Path_Traversal/path_traversal.md",
+    "notes/Secuirty Notes/GraphQl/Graphql_api.md",
+    "notes/Secuirty Notes/File_upload/File_upload.md",
+    "notes/Secuirty Notes/IDOR/Idor_tools.md",
+    "notes/Secuirty Notes/IDOR/Access Control",
+    "notes/Secuirty Notes/Websockets",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas"
   ]
 }
