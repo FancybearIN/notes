@@ -1,0 +1,14 @@
+# Ignore node_modules and log files
+
+# Ignore Python compiled files
+report/*
+
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment and config files
+.env
+config.json
+.obsidian
