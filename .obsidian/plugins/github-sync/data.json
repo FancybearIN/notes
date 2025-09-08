@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:FancybearIN/note.git",
+  "gitLocation": "",
+  "syncinterval": 5,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
