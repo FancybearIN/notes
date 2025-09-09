@@ -24,6 +24,10 @@
 	 www.cloudways.com
 	 unified.cloudways.com
 	 platform.cloudways.com
+	 developers.cloudways.com
+	 api.cloudways.com
+	 *.cloudways.com
+	 
 
 		169.254.169.254
 - **Payout Range:**
