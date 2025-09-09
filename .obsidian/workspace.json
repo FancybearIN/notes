@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "webview"
             }
+          },
+          {
+            "id": "fa802e9c518e465d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-09 15.55.12.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6e8f63b7b6ce9516",
@@ -201,12 +212,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54e7aa9d304dcca4",
+  "active": "6498e80ff5159174",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
+    "Excalidraw",
+    "notes/Android/webview.md",
     "notes/Android/security/case1.md",
     "notes/Android/security/insecureDATASTORAGE.md",
     "notes/Android/Androgoat.md",
-    "notes/Android/webview.md",
     "notes/Android/security/Android pentesting with medium.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "Secuirty Notes/Cross_sites_script",
@@ -235,11 +248,9 @@
     "notes/Cerfication/EJPT/WEB RECON & FOOT-PRINTING.md",
     "notes/Cerfication/EJPT/Passive Info Gathering.md",
     "notes/Cerfication/EJPT/OSINT.md",
-    "notes/Cerfication/EJPT/Introduction To Information Gathering.md",
     "notes/Cerfication/EJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "Secuirty Notes/IDOR/Access Control",
     "Secuirty Notes/Websockets",
-    "Secuirty Notes/web caches",
     "Untitled.canvas"
   ]
 }
