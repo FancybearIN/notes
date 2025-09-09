@@ -6,13 +6,67 @@
     
 - **Scope (domains, apps, APIs):**
  
- digitalocean.com
+	 digitalocean.com
+	 api.digitalocean.com
+	 cloud.digitalocean.com
+	 amd.digitalocean.com
+	 marketplace.digitalocean.com
+	 snapshooter.com
+	 www.digitalocean.com
+	 digitaloceanmirrors.com
+	 digitaloceanstatus.com
+	 digitaloceantest.com
+	 do.co
+	 hackathon-tracker.digitalocean.com
+	 hacktoberfest.com
+	 paperspace.com
+	 css-tricks.com
+	 www.cloudways.com
+	 unified.cloudways.com
+	 platform.cloudways.com
 
+		169.254.169.254
 - **Payout Range:**
     
 - **Notes on Scope Rules:**
-    
+    **The following subdomains are out of scope:**
 
+- cloudsupport.digitalocean.com
+- ideas.digitalocean.com
+- investor.digitalocean.com
+- investors.digitalocean.com
+- ir.digitalocean.com
+- deploy.digitalocean.com
+- pilot.digitalocean.com
+- rewards.digitalocean.com
+- anchor.digitalocean.com
+- waves.digitalocean.com
+- brand.digitalocean.com
+- go.digitalocean.com
+- groove.digitalocean.com
+- email.digitalocean.com
+- status.digitalocean.com
+- events.digitalocean.com
+- helpdesk.digitalocean.com
+- mirrors.digitalocean.com
+- segment.digitalocean.com
+- tracking.digitalocean.com
+- *.ondigitalocean.app
+- *.k8s.ondigitalocean.com
+- *.doserverless.co
+- *.digitaloceanspaces.com
+- *.db.ondigitalocean.com
+- Assets created by other DigitalOcean customers
+---
+- ### I think I found SSRF. How can I prove it?
+
+We have set up an internal service you can try to hit to prove SSRF in our environment.  
+There are two endpoints you can try:
+
+- `https://ssrf-sheriff.internal.digitalocean.com/`
+- `https://ssrf-sheriff.s2r1.internal.digitalocean.com/`
+
+Please include your Intigriti username in an `X-BBP-Researcher` header if you are able to control headers in your SSRF attempt.
 ---
 
 ## 🌐 Assets
