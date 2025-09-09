@@ -13,7 +13,7 @@ Vulnerabilities covered in this app:
 5. Insecure Logging
 6. Input Validations — XSS
 7. Input Validations — SQLi
-8. Input Validations — WebView
+8. [Input Validations — WebView](webview.md)
 9. Unprotected Android Components — Activity
 10. Unprotected Android Components –Service
 11. Unprotected Android Components — Broadcast Receivers
