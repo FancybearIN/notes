@@ -2,10 +2,12 @@
 
 ## 🎯 Program Overview
 
-- **Program Name:**
+- **Program Name:** DigitalOcean
     
 - **Scope (domains, apps, APIs):**
-    
+ 
+ digitalocean.com
+
 - **Payout Range:**
     
 - **Notes on Scope Rules:**
@@ -215,9 +217,9 @@ Next Steps:
 
 ## 🏆 Findings Tracker
 
-|Date|Asset|Functionality|Vulnerability|Severity|Status (reported/fixed)|Bounty $|
-|---|---|---|---|---|---|---|
-|2025-09-09|api.target|Password reset|Token reuse|High|Reported|$1200|
+| Date       | Asset      | Functionality  | Vulnerability | Severity | Status (reported/fixed) | Bounty $ |
+| ---------- | ---------- | -------------- | ------------- | -------- | ----------------------- | -------- |
+| 2025-09-09 | api.target | Password reset | Token reuse   | High     | Reported                | $1200    |
 
 ---
 
