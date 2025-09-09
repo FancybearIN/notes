@@ -275,9 +275,9 @@ Next Steps:
 
 ## 🏆 Findings Tracker
 
-| Date       | Asset      | Functionality  | Vulnerability | Severity | Status (reported/fixed) | Bounty $ |
-| ---------- | ---------- | -------------- | ------------- | -------- | ----------------------- | -------- |
-| 2025-09-09 | api.target | Password reset | Token reuse   | High     | Reported                | $1200    |
+| Date       | Asset | Functionality | Vulnerability | Severity | Status (reported/fixed) | Bounty $ |
+| ---------- | ----- | ------------- | ------------- | -------- | ----------------------- | -------- |
+| 2025-09-09 |       |               |               |          |                         |          |
 
 ---
 
