@@ -168,10 +168,101 @@ When reporting in a bounty:
     
 
 ---
-
-⚡ **Quick Summary (WebView):**  
-Unrestricted WebView with JavaScript/file access enabled → attacker loads malicious page → runs JS, steals files, abuses JS bridges → phishing, data theft, or RCE.
+Perfect — let’s make this **offensive playbook** style. You want **commands (grep, JADX, adb)** that help you _detect insecure WebView usage_ quickly when pentesting / bug hunting.
 
 ---
 
-Do you want me to also prepare the same style write-up for **Insecure SQLite Database storage** (like your `aGoat` file in AndroGoat), so you’ll have a complete set for your lab notes?
+# 🔍 Finding Insecure WebView Usage
+
+### 1. **Static Analysis (Decompile & Grep)**
+
+Decompile APK:
+
+```bash
+jadx-gui target.apk
+```
+
+or CLI:
+
+```bash
+jadx -d output/ target.apk
+```
+
+Now grep through the code:
+
+```bash
+grep -R "WebView" output/
+grep -R "setJavaScriptEnabled" output/
+grep -R "setAllowFileAccess" output/
+grep -R "setAllowUniversalAccessFromFileURLs" output/
+grep -R "setAllowFileAccessFromFileURLs" output/
+grep -R "addJavascriptInterface" output/
+grep -R "loadUrl" output/
+grep -R "loadData" output/
+```
+
+👉 **Red flags to look for:**
+
+- `webView.getSettings().setJavaScriptEnabled(true)`
+- `webView.getSettings().setAllowFileAccess(true)`
+- `WebView.getSettings().setAllowUniversalAccessFromFileURLs(true)`
+- `webView.addJavascriptInterface(..., "...")`
+- `webView.loadUrl("http://...")` (non-HTTPS, attacker-controlled URLs
+
+---
+
+### 2. **Dynamic Testing (Runtime on Device/Emulator)**
+
+Use **adb** to watch WebView traffic + confirm runtime behavior.
+
+Check loaded URLs:
+
+```bash
+adb logcat | grep -i "WebView"
+adb logcat | grep -i "chromium"
+```
+
+Sometimes WebView logs URLs like:
+
+```
+I/chromium: [INFO:CONSOLE(1)] "Loading http://evil.com/..."
+```
+
+Pull WebView databases/cookies (if accessible):
+
+```bash
+adb shell run-as com.victim.app ls /data/data/com.victim.app/app_webview/
+adb shell run-as com.victim.app cat /data/data/com.victim.app/app_webview/Cookies
+```
+
+Check if JavaScript interfaces exist:
+
+```bash
+adb shell run-as com.victim.app ls /data/data/com.victim.app/app_webview/
+```
+
+---
+
+### 3. **On-the-Fly Testing (Objection / Frida)**
+
+Objection shortcut:
+
+```bash
+objection -g com.victim.app explore
+```
+
+List JS interfaces:
+
+```bash
+android hooking list_webviews
+android hooking check_javascript_enabled
+android hooking search_classes WebView
+```
+
+---
+
+⚡ **TL;DR**
+
+- **Static (jadx + grep):** Spot dangerous APIs in code.
+- **Dynamic (adb logcat):** Catch what WebView loads at runtime.
+- **Frida/Objection:** Enumerate & exploit exposed JS bridges.
