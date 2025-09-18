@@ -1,19 +1,12 @@
 # Duplicate Registration (Twinning) Vulnerability Notes
 
-  
-
 ## Overview
 
 Duplicate Registration, also called **Twinning**, occurs when an application allows a user to register multiple accounts using the same identifier (email, phone number, username) through inconsistencies in validation, normalization, or backend checks.  
 
 This can be exploited for **account takeover, privilege escalation, or bypassing business logic**.
 
-  
-
 ---
-
-  
-
 ## Why It Happens
 
 1. **Improper Normalization**: Application fails to normalize identifiers (e.g., case sensitivity, dots in Gmail, Unicode homographs).
