@@ -133,6 +133,8 @@ Please include your Intigriti username in an `X-BBP-Researcher` header if you ar
         ![[Pasted image 20250918115145.png]]
 
 	- user 2 details pb02uk@yopmail.com alias alt.d4-boqrwnb@yopmail.com
+- access control  username -> user two 
+	user 2  ![[Pasted image 20250918115304.png]]
     
 - Avatar upload:
     
