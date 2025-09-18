@@ -33,7 +33,7 @@
   
 
 ### 1. Unauthenticated DSAR submission
-
+alo
 **Technique:** Form accepts DSAR with minimal proof (just an email or name) and returns data or sends sensitive attachments without verifying identity.  
 
 **Detection / PoC:** Submit a DSAR for an account you don’t own (use a disposable email). If the system responds with data or sends an attachment referencing the target, it is unauthenticated. Use Burp Collaborator to capture any OOB.  
