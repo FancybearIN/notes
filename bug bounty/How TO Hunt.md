@@ -126,6 +126,13 @@ Please include your Intigriti username in an `X-BBP-Researcher` header if you ar
 ### 2. User Profile & Settings
 
 - Update info:
+	- user 1 details
+		- pb01uk@yopmail.com alas alt.y1-4os2q0g@yopmail.com
+	- access control 
+        user 1 
+        ![[Pasted image 20250918115145.png]]
+
+	- user 2 details pb02uk@yopmail.com alias alt.d4-boqrwnb@yopmail.com
     
 - Avatar upload:
     
