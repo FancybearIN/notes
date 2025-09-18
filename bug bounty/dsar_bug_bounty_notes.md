@@ -1,28 +1,15 @@
 # Abusing DSAR Systems — Bug Bounty Notes (Markdown)
 
-  
-
 **Purpose:** Practical checklist, techniques, and impact analysis for hunting and reporting vulnerabilities in Data Subject Access Request (DSAR) systems from a bug‑bounty perspective. These notes assume ethical testing (only test accounts or explicit permission). Do **not** exfiltrate real user data.
 
-  
 ---
-
-  
-
 ## Quick TL;DR (for triage)
 
 - Look for unauthenticated DSAR forms, weak verification, email/template injection, and logic flaws.
-
 - Key risks: token/confirmation link leakage, PII exposure, account takeover, mass data leakage (supply‑chain impact).
-
 - Tools to use: Burp Suite (Intruder, Repeater), Burp Collaborator / OOB server, custom collector, request fuzzers, email inboxes (Gmail/Outlook) under your control.
 
-  
-
 ---
-
-  
-
 ## Recon & Target Discovery
 
 1. Search site for keywords: `data subject access`, `privacy request`, `DSR`, `DSAR`, `subject access request`, `download my data`, `export data`, `data request`.
