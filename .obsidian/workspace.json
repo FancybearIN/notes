@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/duplicate_registration_twinning_notes.md",
+                "file": "bug bounty/high_value_misconfigs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "duplicate_registration_twinning_notes"
+              "title": "high_value_misconfigs"
             }
           }
         ],
@@ -270,7 +270,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6498e80ff5159174",
+  "active": "1dd064daae9cd37a",
   "lastOpenFiles": [
     "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
