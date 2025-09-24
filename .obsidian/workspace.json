@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/high_value_misconfigs.md",
+                "file": "bug bounty/duplicate_registration_twinning_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "high_value_misconfigs"
+              "title": "duplicate_registration_twinning_notes"
             }
           }
         ],
@@ -272,13 +272,13 @@
   },
   "active": "1dd064daae9cd37a",
   "lastOpenFiles": [
+    "bug bounty/high_value_misconfigs.md",
+    "bug bounty/One linear.md",
+    "bug bounty/How TO Hunt.md",
     "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
-    "bug bounty/How TO Hunt.md",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
-    "bug bounty/One linear.md",
-    "bug bounty/high_value_misconfigs.md",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "Excalidraw",
     "notes/Android/webview.md",
