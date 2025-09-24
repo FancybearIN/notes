@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/duplicate_registration_twinning_notes.md",
+                "file": "bug bounty/One linear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "duplicate_registration_twinning_notes"
+              "title": "One linear"
             }
           }
         ],
@@ -272,11 +272,11 @@
   },
   "active": "1dd064daae9cd37a",
   "lastOpenFiles": [
+    "bug bounty/duplicate_registration_twinning_notes.md",
     "bug bounty/high_value_misconfigs.md",
     "bug bounty/One linear.md",
     "bug bounty/How TO Hunt.md",
     "bug bounty/dsar_bug_bounty_notes.md",
-    "bug bounty/duplicate_registration_twinning_notes.md",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",

@@ -5,3 +5,13 @@
 💰 👍 Find hidden params in javascript files  
 
 assetfinder *.com | gau | egrep -v '(.css|.svg)' | while read url; do vars=$(curl -s $url | grep -Eo "var [a-zA-Z0-9]+" | sed -e 's,'var','"$url"?',g' -e 's/ //g' | grep -v '.js' | sed 's/.*/&=xss/g'); echo -e "\e[1;33m$url\n\e[1;32m$vars"
+
+
+getting full class
+for i in $(seq 0 255); do
+  echo "212.9.180.$i"
+done > ips_212_9_180.txt
+
+
+check which on belong
+cat ips_84_21.txt ips_212_9_180.txt | sort -u   | httpx -ports "80,443,8080,8000,3000,8443,8888" -silent -timeout 10 -status-code -title -web-server -threads 100 | grep -i porsche   | awk '{print $1}'   | sed 's/\[//;s/\]//'   | sort -u > porsche_ips.txt
