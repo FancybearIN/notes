@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secuirty Notes/Prototype pollution/Prototype pollution.md",
+                "file": "notes/Android/security/case1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prototype pollution"
+              "title": "case1"
             }
           }
         ],
@@ -326,6 +326,12 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
+    "notes/Android/security/insecureDATASTORAGE.md",
+    "notes/Android/security/case1.md",
+    "notes/Android/Androgoat.md",
+    "notes/Android/security/Emulator.md",
+    "notes/Android/security/Android pentesting with medium.md",
+    "Secuirty Notes/Prototype pollution/Prototype pollution.md",
     "Web3.md",
     "Open Redirect to ATO.md",
     "monsh.md",
@@ -341,10 +347,6 @@
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "Excalidraw",
     "notes/Android/webview.md",
-    "notes/Android/security/case1.md",
-    "notes/Android/security/insecureDATASTORAGE.md",
-    "notes/Android/Androgoat.md",
-    "notes/Android/security/Android pentesting with medium.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "Secuirty Notes/Cross_sites_script",
     "Secuirty Notes/web_Cache_posin",
@@ -361,8 +363,6 @@
     "notes/Development/Git.md",
     "notes/Excalidraw/Drawing 2025-03-11 18.53.40.excalidraw.md",
     "notes/Android/Android bug checklists.md",
-    "notes/projects/syllabus/Network/Network Resources.md",
-    "notes/projects/syllabus/Network/Network Syllabus as per days.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "notes/Cerfication/EJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "Untitled.canvas"
