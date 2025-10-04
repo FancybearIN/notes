@@ -104,13 +104,11 @@ Clipboard leaks are especially nasty because users paste things in other apps (c
 ### **Test cases / How I hunt this (practical checklist)**
 
 - Static:
-    
-    - `grep -R "ClipboardManager" -n`
-        
-    - `grep -R "setPrimaryClip" -n`
-        
-    - Inspect copy buttons, "Share" or "Export" flows for what data they copy.
-        
+   ```
+     grep -R "ClipboardManager" -n
+     grep -R "setPrimaryClip" -n
+    ```
+- Inspect copy buttons, "Share" or "Export" flows for what data they copy.
 - Dynamic:
     
     - Start with a clean clipboard: `adb shell cmd clipboard set --primary ""` (API may vary).
@@ -306,6 +304,3 @@ Always redact live secrets in public reports; provide minimal repro steps requir
 - An attacker needs only clipboard-access (IME/Accessibility/malicious app) or physical/root access to harvest values — making this high-risk for tokens, OTPs, passwords, and recovery codes.
     
 - Fix by avoiding global clipboard use for secrets, use ephemeral in-app buffers, auto-clear clipboard, and reduce token lifetime.
-    
-
-If you want, I can immediately export this into a neatly formatted markdown file for your notes or produce the annotated Frida hook I use to detect clipboard writes (ready-to-run). Tell me which artifact you'd like next and I’ll drop it in a single file.
