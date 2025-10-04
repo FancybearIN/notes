@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/security/insecureDATASTORAGE.md",
+                "file": "case6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "insecureDATASTORAGE"
+              "title": "case6"
             }
           }
         ],
@@ -326,8 +326,10 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
-    "notes/Android/Androgoat.md",
     "notes/Android/security/insecureDATASTORAGE.md",
+    "case6.md",
+    "notes/Android/security/case5.md",
+    "notes/Android/Androgoat.md",
     "notes/Android/Android bug checklists.md",
     "notes/Android/security/case1.md",
     "notes/Android/security/Emulator.md",
@@ -361,8 +363,6 @@
     "interview prepare/Cryptographic.md",
     "interview prepare/BAC.md",
     "interview prepare",
-    "notes/Development/Git.md",
-    "notes/Excalidraw/Drawing 2025-03-11 18.53.40.excalidraw.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "notes/Cerfication/EJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "Untitled.canvas"

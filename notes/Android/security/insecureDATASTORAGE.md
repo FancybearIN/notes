@@ -60,7 +60,7 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 6. **Logs (Logcat)**
+### 6. [**Logs (Logcat)**](case6)
 
 - Debug logs often print sensitive info (API responses, JWT tokens, CC numbers).    
 - Problem: Other apps with `READ_LOGS` (older Android) or attacker with physical access can dump logs.
