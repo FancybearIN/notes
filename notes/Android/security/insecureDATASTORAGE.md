@@ -67,7 +67,7 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 7. [**Clipboard Data**](case7)
+### 7. [**Clipboard Data**](case7.md)
 - App copies sensitive info (passwords, OTPs, tokens) to clipboard.
 - Problem: Other apps can read clipboard data in background.
 
@@ -116,14 +116,14 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 14. **Improper Session Management**
+### 14. [**Improper Session Management**](case14)
 
 - Session data not expired, stored locally in plaintext.    
 - Problem: Attacker retrieves token even after logout → reuse for long-term access    
 
 ---
 
-### 15. **Unintended Data Exposure in IPC (Inter-Process Communication)**
+### 15. [**Unintended Data Exposure in IPC (Inter-Process Communication](case15))**
 
 - Sensitive data passed between components via intents or content providers without proper permissions.    
 - Problem: Other malicious apps intercept and read datav 
