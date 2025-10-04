@@ -125,5 +125,3 @@ Want to practice with real-world labs? Try:
 - **Security Headers Scanner** ([https://securityheaders.com/](https://securityheaders.com/))
 
 ---
-
-Does this cover what you need, or do you want specific attack scenarios or tools? 🚀

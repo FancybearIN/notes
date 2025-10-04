@@ -20,12 +20,9 @@ Sure! Here's an improved and clearer version of your writeup, along with some ad
         
     - Example:
         
-        ```http
-        Cache-Control: public, max-age=3600
+      http  Cache-Control: public, max-age=3600
         X-Cache: HIT
-        ```
         
-
 **2. Try Injecting Cache Keys or Delimiters**
 
 - Test with query parameters or headers to check how the cache differentiates content:
@@ -39,8 +36,8 @@ Sure! Here's an improved and clearer version of your writeup, along with some ad
 - Example:
     
     ```
-    /profile?user=admin          ⟶ unique page
-    /profile?user=admin#         ⟶ may be cached as same
+    /profile?user=admin   ⟶ unique page
+    /profile?user=admin#  ⟶ may be cached as same
     ```
     
 

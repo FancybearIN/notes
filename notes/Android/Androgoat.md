@@ -3,12 +3,6 @@ Vulnerabilities covered in this app:
 1. Root Detection
 2. [Emulator Detection](Emulator.md)
 3. [Insecure Data Storage](insecureDATASTORAGE.md)
-   Shared 
-     Prefs — 1
-     Prefs — 2
-    SQLite
-    Temp Files
-    SD Card
 4. Keyboard Cache
 5. Insecure Logging
 6. Input Validations — XSS
@@ -17,7 +11,7 @@ Vulnerabilities covered in this app:
 9. Unprotected Android Components — Activity
 10. Unprotected Android Components –Service
 11. Unprotected Android Components — Broadcast Receivers
-12. Unprotected Android Components — Content Providers (Coming Soon)
+12. Unprotected Android Components — Content Providers 
 13. Hard coding issues
 14. Network intercepting — HTTP
 15. Network intercepting — HTTPS

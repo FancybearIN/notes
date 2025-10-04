@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/security/insecureDATASTORAGE.md",
+                "file": "notes/Cybersecruity Interview/Cors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "insecureDATASTORAGE"
+              "title": "Cors"
             }
           }
         ],
@@ -368,8 +368,10 @@
   },
   "active": "d77ad8ce9a4495c2",
   "lastOpenFiles": [
-    "notes/Android/webview.md",
+    "Secuirty Notes/web caches/cache.md",
     "notes/Android/Androgoat.md",
+    "notes/Android/webview.md",
+    "notes/Android/security/insecureDATASTORAGE.md",
     "notes/Android/Android bug checklists.md",
     "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case5.md",
@@ -385,7 +387,6 @@
     "case14.md",
     "notes/Android/security/case7.md",
     "notes/Android/security/case2.md",
-    "notes/Android/security/insecureDATASTORAGE.md",
     "case13.md",
     "case12.md",
     "case11.md",
@@ -393,7 +394,6 @@
     "case9.md",
     "case8.md",
     "notes/Android/security/case6.md",
-    "notes/Android/security/case1.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
