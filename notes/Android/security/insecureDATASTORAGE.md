@@ -80,7 +80,7 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 9. **Session Tokens Stored Insecurely**
+### 9. [**Session Tokens Stored Insecurely**](case9)
 
 - Session tokens, refresh tokens, or cookies stored in plaintext (DB, prefs).    
 - Problem: Extracted token → full account takeover.
