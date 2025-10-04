@@ -87,28 +87,28 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 10. **Improper Key Management**
+### 10. [**Improper Key Management**](case10)
 
 - App stores **encryption keys** locally (hardcoded in code, or plaintext in storage)
 - Problem: Attacker extracts key → decrypts all data.
 
 ---
 
-### 11. **Cloud Storage Misconfiguration**
+### 11. [**Cloud Storage Misconfiguration**](case11)
 
 - Firebase, AWS S3, or GCP bucket used by app to sync data.  
 - Problem: Misconfigured permissions → public access to private data.
 
 ---
 
-### 12. **Third-Party Library / SDK Issues**
+### 12. [**Third-Party Library / SDK Issues**](case12)
 
 - SDKs store their own logs, cached tokens, or analytics data insecurely.    
 - Problem: App indirectly leaks data due to insecure SDK storage.
 
 ---
 
-### 13. **Unprotected Backups**
+### 13. [**Unprotected Backups**](case13)
 
 - Android backup mechanism saves app data.    
 - Problem: Sensitive files included in backups → attacker extracts from device backup.
