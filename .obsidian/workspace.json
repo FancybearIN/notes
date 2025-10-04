@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/security/case1.md",
+                "file": "notes/Android/security/insecureDATASTORAGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "case1"
+              "title": "insecureDATASTORAGE"
             }
           }
         ],
@@ -231,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6e8f63b7b6ce9516",
@@ -326,9 +326,10 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
-    "notes/Android/security/insecureDATASTORAGE.md",
-    "notes/Android/security/case1.md",
     "notes/Android/Androgoat.md",
+    "notes/Android/security/insecureDATASTORAGE.md",
+    "notes/Android/Android bug checklists.md",
+    "notes/Android/security/case1.md",
     "notes/Android/security/Emulator.md",
     "notes/Android/security/Android pentesting with medium.md",
     "Secuirty Notes/Prototype pollution/Prototype pollution.md",
@@ -362,7 +363,6 @@
     "interview prepare",
     "notes/Development/Git.md",
     "notes/Excalidraw/Drawing 2025-03-11 18.53.40.excalidraw.md",
-    "notes/Android/Android bug checklists.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "notes/Cerfication/EJPT/INE-Assessment-Methodologies-Information-Gathering-Course-Files/INE-Assessment-Methodologies-Information-Gathering.pdf",
     "Untitled.canvas"
