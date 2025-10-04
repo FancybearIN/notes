@@ -73,7 +73,7 @@ How attackers exploit insecure data storage?
 
 ---
 
-### 8. **Screenshots & Background Recording**
+### 8. [**Screenshots & Background Recording**](case8)
 
 - Sensitive screens (OTP, passwords, credit card info) can be captured in screenshots or screen-recording apps.
 - Problem: No `FLAG_SECURE` in app → attacker/malware can capture.
