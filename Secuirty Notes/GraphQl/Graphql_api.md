@@ -78,7 +78,7 @@ Introspection is a built-in GraphQL function that enables you to query a server 
     - Fingerprinting GraphQL
 - **Denial of Service**
     - [Batch Query Attack](dossattack1)
-    - Deep Recursion Query Attack
+    - [Deep Recursion Query Attack](dossattack2)
     - Resource Intensive Query Attack
     - Field Duplication Attack
     - Aliases based Attack
