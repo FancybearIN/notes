@@ -1,0 +1,1 @@
+https://lab.wallarm.com/graphql-batching-attack/
