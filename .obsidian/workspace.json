@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/dsar_bug_bounty_notes.md",
+                "file": "dossattack1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dsar_bug_bounty_notes"
+              "title": "dossattack1"
             }
           },
           {
@@ -369,11 +369,14 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
+    "Secuirty Notes/GraphQl/Graphql_api.md",
+    "dossattack1.md",
+    "().md",
+    "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
     "bug bounty/high_value_misconfigs.md",
     "bug bounty/One linear.md",
     "bug bounty/How TO Hunt.md",
-    "bug bounty/dsar_bug_bounty_notes.md",
     "notes/Android/Androgoat.md",
     "notes/Android/Android bug checklists.md",
     "notes/Android/security/insecureDATASTORAGE.md",
@@ -395,9 +398,6 @@
     "notes/Android/security/case13.md",
     "notes/Android/security/case12.md",
     "notes/Android/security/case11.md",
-    "notes/Android/security/case10.md",
-    "notes/Android/security/case9.md",
-    "notes/Android/security/case8.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
