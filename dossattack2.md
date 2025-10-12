@@ -1,3 +1,4 @@
+https://gitlab.com/gitlab-org/gitlab/-/issues/30096
 # Nested / Circular Introspection (DoS) — Quick Hunting Node
 
 What it is  ?
