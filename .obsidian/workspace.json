@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dossattack2.md",
+                "file": "bug bounty/dsar_bug_bounty_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dossattack2"
+              "title": "dsar_bug_bounty_notes"
             }
           },
           {
@@ -369,18 +369,19 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
+    "bug bounty/high_value_misconfigs.md",
+    "notes/Android/security/case6.md",
+    "notes/Android/security/insecureDATASTORAGE.md",
+    "notes/Android/Androgoat.md",
     "Secuirty Notes/GraphQl/Graphql_api.md",
     "dossattack2.md",
     "dossattack1.md",
     "().md",
     "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
-    "bug bounty/high_value_misconfigs.md",
     "bug bounty/One linear.md",
     "bug bounty/How TO Hunt.md",
-    "notes/Android/Androgoat.md",
     "notes/Android/Android bug checklists.md",
-    "notes/Android/security/insecureDATASTORAGE.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "notes/Android/security/case2.md",
     "notes/Android/security/case1.md",
@@ -397,7 +398,6 @@
     "notes/Android/security/case5.md",
     "notes/Android/security/case14.md",
     "notes/Android/security/case13.md",
-    "notes/Android/security/case12.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
