@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/dsar_bug_bounty_notes.md",
+                "file": "notes/Android/security/case1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dsar_bug_bounty_notes"
+              "title": "case1"
             }
           },
           {
@@ -369,22 +369,24 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
-    "bug bounty/high_value_misconfigs.md",
-    "notes/Android/security/case6.md",
     "notes/Android/security/insecureDATASTORAGE.md",
     "notes/Android/Androgoat.md",
+    "notes/Android/webview.md",
+    "notes/Android/Android bug checklists.md",
+    "notes/Android/security/case1.md",
+    "notes/Android/security/Emulator.md",
+    "bug bounty/dsar_bug_bounty_notes.md",
+    "bug bounty/high_value_misconfigs.md",
+    "notes/Android/security/case6.md",
     "Secuirty Notes/GraphQl/Graphql_api.md",
     "dossattack2.md",
     "dossattack1.md",
     "().md",
-    "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
     "bug bounty/One linear.md",
     "bug bounty/How TO Hunt.md",
-    "notes/Android/Android bug checklists.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "notes/Android/security/case2.md",
-    "notes/Android/security/case1.md",
     "notes/Cybersecruity Interview/Cors.md",
     "Untitled.base",
     "bugcowrd/monsh.md",
@@ -393,11 +395,9 @@
     "Untitled/monsh.md",
     "Untitled",
     "Secuirty Notes/web caches/cache.md",
-    "notes/Android/webview.md",
     "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case5.md",
     "notes/Android/security/case14.md",
-    "notes/Android/security/case13.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
