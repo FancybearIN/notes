@@ -1,6 +1,6 @@
 # Insecure Storage in Shared Preferences
 
-### 📌 Scenario
+###  Scenario
 
 - An Android app stores sensitive data (username, password, access token, API keys, PII) inside **Shared Preferences**.
     

@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/security/case1.md",
+                "file": "bug bounty/dsar_bug_bounty_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "case1"
+              "title": "dsar_bug_bounty_notes"
             }
           },
           {
@@ -369,11 +369,12 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
+    "notes/Android/security/case15.md",
+    "notes/Android/security/case1.md",
     "notes/Android/security/insecureDATASTORAGE.md",
     "notes/Android/Androgoat.md",
     "notes/Android/webview.md",
     "notes/Android/Android bug checklists.md",
-    "notes/Android/security/case1.md",
     "notes/Android/security/Emulator.md",
     "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/high_value_misconfigs.md",
@@ -397,7 +398,6 @@
     "Secuirty Notes/web caches/cache.md",
     "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case5.md",
-    "notes/Android/security/case14.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
