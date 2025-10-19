@@ -183,9 +183,9 @@ Use these exact queries (Ctrl+F) to find risk indicators:
     
 - **ADB checks** (if you can access device):
      
-    ```adb shell which su adb shell getprop ro.build.tags adb shell getenforce
-    ```
- ```
+
+    ```adb shell which su adb shell getprop ro.build.tags adb shell getenforce`
+    
 - **Network sniff**: proxy the app and see if it sends attestation tokens — presence means server-side checks may exist (but confirm if server validates them).
     
 

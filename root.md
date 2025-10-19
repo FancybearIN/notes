@@ -13,3 +13,11 @@ Short practical note: to check for root existence you might see a `su` binary at
 Nice — let’s yank this apart like a curious robot. Below I’ll show exactly what apps look for (Java/Kotlin and React Native), give you concrete code patterns to hunt in JADX GUI, point out where false positives hide, and finish with quick Frida/adb checks you can use to confirm behavior at runtime.
 
 [ Way to find out using jadx gui.](jadx)
+
+## Bypass using different ways.
+
+[ - ### **ROOTCLOAK**](rootcloak)
+ - ### **Repackaging**
+ - ### **Frida**
+
+ 
