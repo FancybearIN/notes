@@ -165,12 +165,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "jadx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "root"
+              "title": "jadx"
             }
           },
           {
@@ -369,8 +369,9 @@
   },
   "active": "19ef73c358e5bd2c",
   "lastOpenFiles": [
-    "notes/Android/Androgoat.md",
     "root.md",
+    "jadx.md",
+    "notes/Android/Androgoat.md",
     "notes/Android/security/case1.md",
     "notes/Android/security/insecureDATASTORAGE.md",
     "notes/Android/security/Android pentesting with medium.md",
@@ -397,7 +398,6 @@
     "monsh.md",
     "Untitled/monsh.md",
     "Untitled",
-    "Secuirty Notes/web caches/cache.md",
     "Smart Contract",
     "Pasted image 20250918115145.png",
     "bug bounty/auth bypass",
