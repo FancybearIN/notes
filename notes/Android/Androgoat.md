@@ -1,6 +1,6 @@
 Vulnerabilities covered in this app:
 
-1. Root Detection
+1. [Root Detection](root)
 2. [Emulator Detection](Emulator.md)
 3. [Insecure Data Storage](insecureDATASTORAGE.md)
 4. Keyboard Cache
