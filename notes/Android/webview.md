@@ -32,7 +32,7 @@ They can also:
     
 - Example code:
     
-    ```java
+    ```java 
     webSettings.setJavaScriptEnabled(true);
     webView.loadUrl(userInput);
     ```
