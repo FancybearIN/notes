@@ -4,233 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a5115a1800a150c1",
+        "id": "412d1118ef1e23aa",
         "type": "tabs",
         "children": [
           {
-            "id": "8f07afbdc34a7927",
+            "id": "899ee1f3dd351497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Development/Linux.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "c4aa0608778eb25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Android/security/case1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case1"
-            }
-          },
-          {
-            "id": "54e7aa9d304dcca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Android/webview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "webview"
-            }
-          },
-          {
-            "id": "fa802e9c518e465d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/One linear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "One linear"
-            }
-          },
-          {
-            "id": "5b6f1354f27c3672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/How TO Hunt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How TO Hunt"
-            }
-          },
-          {
-            "id": "636b118957b39e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/How TO Hunt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How TO Hunt"
-            }
-          },
-          {
-            "id": "34ce3e5f4a0d07a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/dsar_bug_bounty_notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dsar_bug_bounty_notes"
-            }
-          },
-          {
-            "id": "1dd064daae9cd37a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250918115145.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250918115145"
-            }
-          },
-          {
-            "id": "10676fa3e9a5ec50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/One linear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "One linear"
-            }
-          },
-          {
-            "id": "08597790a4694e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "monsh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "monsh"
-            }
-          },
-          {
-            "id": "dde3a421a3174abf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bug bounty/How TO Hunt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How TO Hunt"
-            }
-          },
-          {
-            "id": "19ef73c358e5bd2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "root"
-            }
-          },
-          {
-            "id": "91ad3096a74a73e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Android/webview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "webview"
-            }
-          },
-          {
-            "id": "ccfd2535c5c4624b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Android/security/case2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case2"
-            }
-          },
-          {
-            "id": "40aa7e05cc85d716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Android/security/case7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case7"
-            }
-          },
-          {
-            "id": "d77ad8ce9a4495c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secuirty Notes/Cross_sites_script/XSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XSS"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,36 +168,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91ad3096a74a73e0",
+  "active": "899ee1f3dd351497",
   "lastOpenFiles": [
-    "notes/Android/security/case1.md",
-    "notes/Android/security/insecureDATASTORAGE.md",
+    "Secuirty Notes/Cross_sites_script/XSS.md",
+    "notes/Android/security/case7.md",
+    "notes/Android/security/case2.md",
     "notes/Android/Androgoat.md",
-    "jadx.md",
+    "bug bounty/How TO Hunt.md",
+    "bug bounty/One linear.md",
     "Pasted image 20250918115145.png",
-    "Pasted image 20250918115304.png",
-    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
+    "bug bounty/dsar_bug_bounty_notes.md",
+    "notes/Android/webview.md",
+    "notes/Android/security/case1.md",
+    "notes/Development/Linux.md",
+    "notes/Android/security/Android pentesting with medium.md",
     "root.md",
-    "rootcloak.md",
+    "Untitled.base",
     "dossattack1.md",
     "().md",
+    "notes/Android/security/insecureDATASTORAGE.md",
+    "jadx.md",
+    "Pasted image 20250918115304.png",
+    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
+    "rootcloak.md",
     "bug bounty/high_value_misconfigs.md",
-    "bug bounty/dsar_bug_bounty_notes.md",
-    "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case15.md",
-    "notes/Android/webview.md",
     "notes/Android/Android bug checklists.md",
     "notes/Android/security/Emulator.md",
     "notes/Android/security/case6.md",
     "Secuirty Notes/GraphQl/Graphql_api.md",
     "dossattack2.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
-    "bug bounty/One linear.md",
-    "bug bounty/How TO Hunt.md",
-    "Secuirty Notes/Cross_sites_script/XSS.md",
-    "notes/Android/security/case2.md",
-    "notes/Cybersecruity Interview/Cors.md",
-    "Untitled.base",
     "bugcowrd",
     "Untitled",
     "Smart Contract",
