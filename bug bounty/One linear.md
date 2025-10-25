@@ -27,3 +27,5 @@ $ sqlmap -r reound.txt  --flush-session --dbs --banner --current-user --dbms=mys
 deep fuzz 
 
 └─$ dirsearch -u https://dev.astro.monash.edu/ -t 10 --deep-recursive  --crawl --full-url
+
+sudo masscan -iL hosts -p 1-65535 --exclude 255.255.255.255 --rate 100000 --output-format json --output-filename scan-results.json && cat scan-results.json | sed -e '/^\[/d' -e '/^\]/d' -e 's/,$//' | jq -r '[.ip, .ports[0].port] | @tsv' | sed 's/\t/:/' | sort -u > alive-hosts && httpx -l alive-hosts -o http_hosts.txt && nuclei -l http_hosts.txt -o six_CIDR.txt
