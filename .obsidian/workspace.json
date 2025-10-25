@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "One linear"
             }
+          },
+          {
+            "id": "ebaef6f0dbc4f375",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-25 15.06.59.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,15 +185,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "899ee1f3dd351497",
+  "active": "ebaef6f0dbc4f375",
   "lastOpenFiles": [
+    "bug bounty/One linear.md",
+    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "bug bounty/How TO Hunt.md",
     "bug bounty/high_value_misconfigs.md",
     "Open Redirect to ATO.md",
     "Pasted image 20250918115145.png",
     "Pasted image 20250918115304.png",
     "root.md",
-    "bug bounty/One linear.md",
     "rootcloak.md",
     "Web3.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
