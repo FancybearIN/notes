@@ -25,12 +25,14 @@
             "id": "ebaef6f0dbc4f375",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md"
+                "file": "bug bounty/One linear.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-24 17.40.14.excalidraw"
+              "icon": "lucide-file",
+              "title": "One linear"
             }
           }
         ],
@@ -187,10 +189,10 @@
   },
   "active": "ebaef6f0dbc4f375",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "bug bounty/One linear.md",
+    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "bug bounty/How TO Hunt.md",
     "bug bounty/high_value_misconfigs.md",
     "Open Redirect to ATO.md",
