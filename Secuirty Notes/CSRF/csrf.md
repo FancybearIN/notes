@@ -1,5 +1,6 @@
 **CSRF Vulnerability Allows Deletion of Other Users’ Campaigns via GET Request**
 **Cross-Site Request Forgery (CSRF) – CWE-352**
+
 Url : `https://app.signitic.com/campaign/<campaign_id>/delete`
 
 ## Description

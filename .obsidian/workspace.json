@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/One linear.md",
+                "file": "Secuirty Notes/Cross_sites_script/XSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One linear"
+              "title": "XSS"
             }
           }
         ],
@@ -189,8 +189,9 @@
   },
   "active": "ebaef6f0dbc4f375",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
+    "Secuirty Notes/CSRF/csrf.md",
     "bug bounty/One linear.md",
+    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
     "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "bug bounty/How TO Hunt.md",
@@ -217,7 +218,6 @@
     "jadx.md",
     "notes/Android/security/case15.md",
     "notes/Android/Android bug checklists.md",
-    "notes/Android/security/Emulator.md",
     "bugcowrd",
     "Untitled",
     "Smart Contract",
