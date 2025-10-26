@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secuirty Notes/Cross_sites_script/XSS.md",
+                "file": "Secuirty Notes/Dom Based vuln/DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "DOM"
             }
           }
         ],
@@ -189,6 +189,10 @@
   },
   "active": "ebaef6f0dbc4f375",
   "lastOpenFiles": [
+    "notes/interview content/cover & cold letter fromat.md",
+    "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
+    "notes/Cybersecruity Interview/Cors.md",
+    "Secuirty Notes/Cross_sites_script/XSS.md",
     "Secuirty Notes/CSRF/csrf.md",
     "bug bounty/One linear.md",
     "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
@@ -202,7 +206,6 @@
     "root.md",
     "rootcloak.md",
     "Web3.md",
-    "Secuirty Notes/Cross_sites_script/XSS.md",
     "notes/Android/security/case7.md",
     "notes/Android/security/case2.md",
     "notes/Android/Androgoat.md",
@@ -216,8 +219,6 @@
     "().md",
     "notes/Android/security/insecureDATASTORAGE.md",
     "jadx.md",
-    "notes/Android/security/case15.md",
-    "notes/Android/Android bug checklists.md",
     "bugcowrd",
     "Untitled",
     "Smart Contract",
@@ -227,7 +228,6 @@
     "Secuirty Notes/web_Cache_posin",
     "Secuirty Notes/SSrf",
     "Secuirty Notes/Race condition",
-    "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "Untitled.canvas"
   ]
 }
