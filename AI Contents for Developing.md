@@ -18,3 +18,5 @@ https://github.com/ramkansal/pentestMCP
 https://github.com/ibrahimsaleem/PentestThinkingMCP
 
 https://github.com/FancybearIN/hunt
+
+https://github.com/ch3tanbug/DroidSentinel #appsec_static_Analyse 
