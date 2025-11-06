@@ -62,7 +62,7 @@
 - *.db.ondigitalocean.com
 - Assets created by other DigitalOcean customers
 ---
-- ### I think I found SSRF. How can I prove it?
+### I think I found SSRF. How can I prove it?
 
 We have set up an internal service you can try to hit to prove SSRF in our environment.  
 There are two endpoints you can try:
