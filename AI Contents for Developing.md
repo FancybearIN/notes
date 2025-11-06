@@ -16,3 +16,5 @@ https://github.com/Wh0am123/MCP-Kali-Server
 pentest
 https://github.com/ramkansal/pentestMCP
 https://github.com/ibrahimsaleem/PentestThinkingMCP
+
+https://github.com/FancybearIN/hunt
