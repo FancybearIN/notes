@@ -7,7 +7,6 @@ Typical checks you'll see in decompiled code:
 - File existence checks for binaries/paths:
     
     - `/system/bin/su`, `/system/xbin/su`, `/sbin/su`, `/su/bin/su`
-        
     - `/system/app/Superuser.apk`, `/system/xbin/daemonsu`
         
 - Trying to run `su` via `Runtime.exec()` or `ProcessBuilder`.
@@ -21,7 +20,7 @@ Typical checks you'll see in decompiled code:
 - Using third-party libs: **RootBeer**, **libsu**, or custom `RootUtils`, `RootChecker`, `SafetyNet` wrappers.
     
 - Debuggable flag or signature checks: `android:debuggable="true"` or mismatched signature.
-    
+
 - SafetyNet / Play Integrity API calls (attestation tokens sent to server).
     
 
