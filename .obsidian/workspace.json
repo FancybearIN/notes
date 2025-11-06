@@ -39,14 +39,12 @@
             "id": "a203b5205cf62aeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "bug bounty/One linear.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "One linear"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-09 15.55.12.excalidraw"
             }
           }
         ],
@@ -203,14 +201,16 @@
   },
   "active": "a203b5205cf62aeb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
+    "dossattack1.md",
+    "().md",
+    "bug bounty/One linear.md",
     "bug bounty/How TO Hunt.md",
     "bug bounty/high_value_misconfigs.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
     "bug bounty/dsar_bug_bounty_notes.md",
-    "bug bounty/One linear.md",
-    "().md",
     "Web3.md",
-    "dossattack1.md",
     "dossattack2.md",
     "jadx.md",
     "rootcloak.md",
@@ -223,8 +223,6 @@
     "notes/Cybersecruity Interview/Cors.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "Secuirty Notes/CSRF/csrf.md",
-    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "Open Redirect to ATO.md",
     "Pasted image 20250918115145.png",
