@@ -1,6 +1,8 @@
 
 
-In 
+In you start with mcp 
+https://medium.com/ai-cloud-lab/model-context-protocol-mcp-with-ollama-a-full-deep-dive-working-code-part-1-81a3bb6d16b3
+
 Google gemini Ai Automation
 https://github.com/SlanyCukr/bugbounty-mcp-server
 
