@@ -4,4 +4,5 @@
 Google gemini Ai Automation
 https://github.com/SlanyCukr/bugbounty-mcp-server
 
-buy e
+bug bounty enviroment with mcp server 
+https://github.com/gokulapap/bugbounty-mcp-server
