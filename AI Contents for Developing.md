@@ -12,3 +12,7 @@ https://github.com/punkpeye/awesome-mcp-servers
 
 mcp for kali liunx
 https://github.com/Wh0am123/MCP-Kali-Server
+
+pentest
+https://github.com/ramkansal/pentestMCP
+https://github.com/ibrahimsaleem/PentestThinkingMCP
