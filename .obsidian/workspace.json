@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/How TO Hunt.md",
+                "file": "bug bounty/One linear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How TO Hunt"
+              "title": "One linear"
             }
           }
         ],
@@ -201,13 +201,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31458050ee9805cc",
+  "active": "a203b5205cf62aeb",
   "lastOpenFiles": [
-    "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/How TO Hunt.md",
-    "bug bounty/One linear.md",
     "bug bounty/high_value_misconfigs.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
+    "bug bounty/dsar_bug_bounty_notes.md",
+    "bug bounty/One linear.md",
     "().md",
     "Web3.md",
     "dossattack1.md",
