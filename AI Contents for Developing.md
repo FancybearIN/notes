@@ -9,3 +9,6 @@ https://github.com/gokulapap/bugbounty-mcp-server
 
 resources repo for mcp server
 https://github.com/punkpeye/awesome-mcp-servers
+
+mcp for kali liunx
+https://github.com/Wh0am123/MCP-Kali-Server
