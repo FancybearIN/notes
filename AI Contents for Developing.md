@@ -1,6 +1,6 @@
 
 
-
+In 
 Google gemini Ai Automation
 https://github.com/SlanyCukr/bugbounty-mcp-server
 
@@ -16,6 +16,11 @@ https://github.com/Wh0am123/MCP-Kali-Server
 pentest
 https://github.com/ramkansal/pentestMCP
 https://github.com/ibrahimsaleem/PentestThinkingMCP
+
+We propose a three-part automation workflow: 
+(1) scrape and AI-analyze public endpoints into Google Docs for fast triage, 
+(2) run Droid Sentinel static scans and use AI to find exploit chains and validate impact,
+(3) run a personal “Hunt” pipeline to continuously enumerate subdomains, CNAMEs, and cloud misconfigs. Combined, these reduce manual effort, prioritize high-impact findings, and create an auditable pipeline from discovery to report-ready evidence.
 
 https://github.com/FancybearIN/hunt
 
