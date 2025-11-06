@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bug bounty/dsar_bug_bounty_notes.md",
+                "file": "bug bounty/How TO Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dsar_bug_bounty_notes"
+              "title": "How TO Hunt"
             }
           }
         ],
@@ -201,13 +201,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a203b5205cf62aeb",
+  "active": "31458050ee9805cc",
   "lastOpenFiles": [
+    "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/How TO Hunt.md",
     "bug bounty/One linear.md",
     "bug bounty/high_value_misconfigs.md",
     "bug bounty/duplicate_registration_twinning_notes.md",
-    "bug bounty/dsar_bug_bounty_notes.md",
     "().md",
     "Web3.md",
     "dossattack1.md",
