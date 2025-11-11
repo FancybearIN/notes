@@ -53,12 +53,14 @@
             "id": "62137bc5b286ecb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notes/interview content/assets/Screenshot 2025-03-11 190837.png"
+                "file": "bug bounty/high_value_misconfigs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-03-11 190837"
+              "icon": "lucide-file",
+              "title": "high_value_misconfigs"
             }
           }
         ],
@@ -215,6 +217,10 @@
   },
   "active": "62137bc5b286ecb6",
   "lastOpenFiles": [
+    "bug bounty/How TO Hunt.md",
+    "bug bounty/One linear.md",
+    "bug bounty/dsar_bug_bounty_notes.md",
+    "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "root.md",
     "rootcloak.md",
     "Web3.md",
@@ -227,9 +233,6 @@
     "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
-    "bug bounty/One linear.md",
-    "bug bounty/How TO Hunt.md",
-    "bug bounty/dsar_bug_bounty_notes.md",
     "interview prepare/BAC.md",
     "AI Contents for Developing.md",
     "AI Contents for Developing.pdf",
@@ -242,7 +245,6 @@
     "Todayisnew",
     "Secuirty Notes/Dom Based vuln/DOM.md",
     "notes/interview content/cover & cold letter fromat.md",
-    "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "Secuirty Notes/CSRF/csrf.md",
     "notes/Android/security/case7.md",
