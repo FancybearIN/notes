@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Request Sumggling.md",
+                "file": "bug bounty/How TO Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Request Sumggling"
+              "title": "How TO Hunt"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "98096dc819e98d6e",
   "lastOpenFiles": [
-    "Interview Questions.pdf",
     "Request Sumggling.md",
+    "Interview Questions.pdf",
     "bug bounty/One linear.md",
     "jadx.md",
     "Untitled.base",
