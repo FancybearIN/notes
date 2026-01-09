@@ -22,5 +22,5 @@
 - **Set-Cookie: Secure** → cookie sirf HTTPS me jati
 - **Access-Control-Allow-Origin** → unauthorized origins se request block hoti hai
 - **Access-Control-Allow-Credentials** → credentials ke saath cross-site access control hota hai
-- **Content-Security-Policy: form-action** → form submit sirf allowed domains pe hota hai
+- **Content-Security-Policy: form-action** → form submit sirf allowed domains pe hota hai     
 - **X-Frame-Options** → clickjacking based CSRF block hota hai
