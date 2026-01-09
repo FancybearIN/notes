@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "same_site.md",
+                "file": "CSRF - HEADER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "same_site"
+              "title": "CSRF - HEADER"
             }
           },
           {
@@ -243,9 +243,9 @@
   },
   "active": "dbd258c447facc8b",
   "lastOpenFiles": [
-    "CSRF - HEADER.md",
     "same_site.md",
     "Secuirty Notes/CSRF/csrf.md",
+    "CSRF - HEADER.md",
     "Secuirty Notes/header & vuln",
     "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md",
     "Open Redirect to ATO.md",
