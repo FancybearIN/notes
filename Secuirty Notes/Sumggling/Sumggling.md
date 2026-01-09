@@ -1,1 +1,3 @@
-## slack
+## slack 
+
+The core issue is classic **HTTP Request Smuggling**  a discrepancy attack where malformed headers (e.g., conflicting `Content-Length` vs. `Transfer-Encoding`) cause front and back servers to interpret request boundaries differently, enabling injection of attacker data into adjacent user sessions. In this case, the attacker _didn’t need credentials_ of those users to crack their sessions; the smuggled data corrupted the normal request processing in a way that tilted session context to the attacker’s control.
