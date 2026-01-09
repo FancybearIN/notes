@@ -2,4 +2,23 @@
 
 usme hote hai 3 attributes hote hai 
 
-samesite=none 
+
+
+| **SameSite=None** |     |
+| ----------------- | --- |
+|                   |     |
+
+
+## **SameSite=None**
+
+
+**Use case:**
+- SSO
+- Third-party integrations
+
+**Rule:**
+- `Secure` mandatory
+`SameSite=None; Secure`
+
+**CSRF impact:**  
+❌ **Sabse risky** (CSRF fully possible)
