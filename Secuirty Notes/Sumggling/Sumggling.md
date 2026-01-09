@@ -12,4 +12,4 @@ The impact speaks to _session isolation failures_ at scale not low-impact header
 Mitigation:
 Do not allow **Content-Length** and **Transfer-Encoding** together in a single request.  
 Reject requests that contain **multiple Content-Length headers**.  Immediately drop **malformed or invalid chunked requests**.   Ensure **front-end and back-end servers use the same HTTP parsing rules**.  Always forward a **clean, normalized request** to the backend.  
-Avoid **shared connections and HTTP pipelining**.  Close the connection immediately when a **parsing error** occurs.  Regularly run **HTTP request smuggling tests** (CL.TE, TE.CL).
+Avoid **shared connections and HTTP pipelining**.  Close the connection immediately when a **parsing error** occurs.  chwRegularly run **HTTP request smuggling tests** (CL.TE, TE.CL).
