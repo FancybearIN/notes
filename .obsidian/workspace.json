@@ -25,12 +25,28 @@
             "id": "98bbba590276eb6d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md"
+                "file": "Secuirty Notes/CSRF/csrf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-09 21.55.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "csrf"
+            }
+          },
+          {
+            "id": "dbd258c447facc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSRF - HEADER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSRF - HEADER"
             }
           },
           {
@@ -74,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +241,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "98bbba590276eb6d",
+  "active": "dbd258c447facc8b",
   "lastOpenFiles": [
-    "Open Redirect to ATO.md",
+    "Secuirty Notes/CSRF/csrf.md",
+    "CSRF - HEADER.md",
+    "Secuirty Notes/header & vuln",
     "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md",
+    "Open Redirect to ATO.md",
     "AI Contents for Developing.md",
     "notes/Android/security/case2.md",
     "notes/Android/security/case1.md",
@@ -239,7 +258,6 @@
     "Secuirty Notes/GraphQl/Graphql_api.md",
     "Secuirty Notes/File_upload/File_upload.md",
     "Secuirty Notes/Dom Based vuln/DOM.md",
-    "Secuirty Notes/CSRF/csrf.md",
     "Secuirty Notes/Cross_sites_script/XSS.md",
     "notes/Cybersecruity Interview/Cors.md",
     "root.md",
@@ -256,7 +274,6 @@
     "bug bounty/dsar_bug_bounty_notes.md",
     "bug bounty/high_value_misconfigs.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
-    "rootcloak.md",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
     "AI Contents for Developing.pdf",
@@ -265,7 +282,6 @@
     "Smart Contract",
     "bug bounty/auth bypass",
     "Excalidraw",
-    "Secuirty Notes/Cross_sites_script",
     "Untitled.canvas"
   ]
 }
