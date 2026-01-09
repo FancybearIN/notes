@@ -81,16 +81,13 @@ Yeh **scale-based attack** tha ek request, hazaaro users impacted.
 
 ### GSA (data.gov)
 
-Multiple layers (proxy + backend) HTTP requests ko alag rules se parse kar rahe the.  
-Result: attacker unauthorized requests backend tak push kar pa raha tha.  
-Environment test tha, par bug real-world applicable tha.
+Multiple layers (proxy + backend) HTTP requests ko alag rules se parse kar rahe the.  Result: attacker unauthorized requests backend tak push kar pa raha tha.  Environment test tha, par bug real-world applicable tha.
 
 ---
 
 ### U.S. Department of Defense
 
-Legacy proxies aur modern backends ke combination ne classic desync create kiya.  
-Yeh reports dikhati hain ki **old infrastructure + new services** smuggling ke liye perfect storm ban jaata hai.
+Legacy proxies aur modern backends ke combination ne classic desync create kiya.  Yeh reports dikhati hain ki **old infrastructure + new services** smuggling ke liye perfect storm ban jaata hai.
 
 ---
 
