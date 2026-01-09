@@ -6,3 +6,5 @@ The researcher found an **HTTP Request Smuggling** vulnerability in a Slack endp
 
 How it was abused:
 Using this smuggling flaw, the researcher was able to **hijack other users’ requests** by injecting a malicious request into the request stream. This manipulation let them steal session cookies or otherwise impersonate other users, leading to **mass account takeovers** on Slack (effectively forging a way to control sessions of other logged-in users).
+**Root cause class:**  
+Inconsistent interpretation of request framing between intermediaries and origin servers — a classic HTTP request smuggling vector.
