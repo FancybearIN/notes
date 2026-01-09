@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/Androgoat.md",
+                "file": "root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Androgoat"
+              "title": "root"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "98096dc819e98d6e",
   "lastOpenFiles": [
+    "notes/Android/Androgoat.md",
     "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case1.md",
     "root.md",
@@ -247,7 +248,6 @@
     "Todayisnew",
     "Secuirty Notes/Dom Based vuln/DOM.md",
     "notes/interview content/cover & cold letter fromat.md",
-    "Secuirty Notes/Cross_sites_script/XSS.md",
     "bugcowrd",
     "Smart Contract",
     "bug bounty/auth bypass",
