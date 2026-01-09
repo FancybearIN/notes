@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "98bbba590276eb6d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-09 21.55.40.excalidraw"
+            }
+          },
+          {
             "id": "ebaef6f0dbc4f375",
             "type": "leaf",
             "state": {
@@ -61,7 +73,8 @@
               "title": "Sumggling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6e8f63b7b6ce9516",
@@ -212,8 +226,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "899ee1f3dd351497",
+  "active": "98bbba590276eb6d",
   "lastOpenFiles": [
+    "Open Redirect to ATO.md",
+    "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md",
     "AI Contents for Developing.md",
     "notes/Android/security/case2.md",
     "notes/Android/security/case1.md",
@@ -242,10 +258,8 @@
     "bug bounty/high_value_misconfigs.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "rootcloak.md",
-    "Open Redirect to ATO.md",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
-    "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "AI Contents for Developing.pdf",
     "Todayisnew",
     "bugcowrd",
