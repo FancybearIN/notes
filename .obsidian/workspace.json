@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "Secuirty Notes/Sumggling/Sumggling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "root"
+              "title": "Sumggling"
             }
           }
         ],
@@ -215,10 +215,12 @@
   },
   "active": "98096dc819e98d6e",
   "lastOpenFiles": [
+    "root.md",
+    "Secuirty Notes/Sumggling/Sumggling.md",
+    "Secuirty Notes/Sumggling",
     "notes/Android/Androgoat.md",
     "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case1.md",
-    "root.md",
     "Untitled.base",
     "bug bounty/How TO Hunt.md",
     "Request Sumggling.md",
@@ -247,13 +249,11 @@
     "Secuirty Notes/Prototype pollution/Prototype pollution.md",
     "Todayisnew",
     "Secuirty Notes/Dom Based vuln/DOM.md",
-    "notes/interview content/cover & cold letter fromat.md",
     "bugcowrd",
     "Smart Contract",
     "bug bounty/auth bypass",
     "Excalidraw",
     "Secuirty Notes/Cross_sites_script",
-    "Secuirty Notes/web_Cache_posin",
     "Untitled.canvas"
   ]
 }
