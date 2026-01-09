@@ -37,9 +37,7 @@
     → request trusted site se aayi ya nahi
 4. **GET request ko kabhi state-change ke liye use mat karo**  
     → GET CSRF easy hota hai
-    
 5. **JSON APIs me `Content-Type: application/json` enforce karo**  
     → browser CSRF form se JSON nahi bhej sakta
-    
 6. **`Sec-Fetch-Site = cross-site` ho to reject karo**  
     → background CSRF block hota hai
