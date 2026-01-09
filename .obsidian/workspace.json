@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secuirty Notes/GraphQl/Graphql_api.md",
+                "file": "notes/Android/security/case1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphql_api"
+              "title": "case1"
             }
           },
           {
@@ -214,6 +214,11 @@
   },
   "active": "899ee1f3dd351497",
   "lastOpenFiles": [
+    "notes/Android/security/Android pentesting with medium.md",
+    "Secuirty Notes/IDOR/idor.md",
+    "Secuirty Notes/IDOR/Access Control/Attack_Checklist.md",
+    "Secuirty Notes/IDOR/Access Control/Broken_Access_Control.md",
+    "Secuirty Notes/GraphQl/Graphql_api.md",
     "Secuirty Notes/File_upload/File_upload.md",
     "Secuirty Notes/Dom Based vuln/DOM.md",
     "Secuirty Notes/CSRF/csrf.md",
@@ -225,7 +230,6 @@
     "Web3.md",
     "Secuirty Notes/Sumggling/Sumggling.md",
     "Secuirty Notes/Sumggling",
-    "notes/Android/security/Android pentesting with medium.md",
     "notes/Android/security/case1.md",
     "Untitled.base",
     "bug bounty/How TO Hunt.md",
@@ -242,11 +246,7 @@
     "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
     "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
     "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
-    "interview prepare/BAC.md",
-    "AI Contents for Developing.md",
     "AI Contents for Developing.pdf",
-    "dossattack1.md",
-    "().md",
     "Todayisnew",
     "bugcowrd",
     "Smart Contract",
