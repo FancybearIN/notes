@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secuirty Notes/Cross_sites_script/XSS.md",
+                "file": "Secuirty Notes/GraphQl/Graphql_api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "Graphql_api"
             }
           },
           {
@@ -214,6 +214,10 @@
   },
   "active": "899ee1f3dd351497",
   "lastOpenFiles": [
+    "Secuirty Notes/File_upload/File_upload.md",
+    "Secuirty Notes/Dom Based vuln/DOM.md",
+    "Secuirty Notes/CSRF/csrf.md",
+    "Secuirty Notes/Cross_sites_script/XSS.md",
     "notes/Cybersecruity Interview/Cors.md",
     "root.md",
     "notes/Android/Androgoat.md",
@@ -243,11 +247,7 @@
     "AI Contents for Developing.pdf",
     "dossattack1.md",
     "().md",
-    "bug bounty/duplicate_registration_twinning_notes.md",
-    "dossattack2.md",
-    "Secuirty Notes/Prototype pollution/Prototype pollution.md",
     "Todayisnew",
-    "Secuirty Notes/Dom Based vuln/DOM.md",
     "bugcowrd",
     "Smart Contract",
     "bug bounty/auth bypass",
