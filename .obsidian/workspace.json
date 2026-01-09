@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Android/security/case1.md",
+                "file": "Open Redirect to ATO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "case1"
+              "title": "Open Redirect to ATO"
             }
           },
           {
@@ -214,6 +214,9 @@
   },
   "active": "899ee1f3dd351497",
   "lastOpenFiles": [
+    "AI Contents for Developing.md",
+    "notes/Android/security/case2.md",
+    "notes/Android/security/case1.md",
     "notes/Android/security/Android pentesting with medium.md",
     "Secuirty Notes/IDOR/idor.md",
     "Secuirty Notes/IDOR/Access Control/Attack_Checklist.md",
@@ -230,7 +233,6 @@
     "Web3.md",
     "Secuirty Notes/Sumggling/Sumggling.md",
     "Secuirty Notes/Sumggling",
-    "notes/Android/security/case1.md",
     "Untitled.base",
     "bug bounty/How TO Hunt.md",
     "Request Sumggling.md",
@@ -244,8 +246,6 @@
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
     "Excalidraw/Drawing 2025-10-25 15.06.59.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-24 17.40.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-09 15.55.12.excalidraw.md",
     "AI Contents for Developing.pdf",
     "Todayisnew",
     "bugcowrd",
