@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSRF - HEADER.md",
+                "file": "same_site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSRF - HEADER"
+              "title": "same_site"
             }
           },
           {
@@ -243,8 +243,9 @@
   },
   "active": "dbd258c447facc8b",
   "lastOpenFiles": [
-    "Secuirty Notes/CSRF/csrf.md",
     "CSRF - HEADER.md",
+    "same_site.md",
+    "Secuirty Notes/CSRF/csrf.md",
     "Secuirty Notes/header & vuln",
     "Excalidraw/Drawing 2026-01-09 21.55.40.excalidraw.md",
     "Open Redirect to ATO.md",
@@ -272,7 +273,6 @@
     "Interview Questions.pdf",
     "jadx.md",
     "bug bounty/dsar_bug_bounty_notes.md",
-    "bug bounty/high_value_misconfigs.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",

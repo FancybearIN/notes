@@ -18,8 +18,7 @@
 ## 3️⃣ **CSRF MITIGATION headers (kyon attack block hota hai)**
 
 - **X-CSRF-Token / X-XSRF-Token** → attacker token guess ya read nahi kar sakta
-- **Set-Cookie: [SameSite](same_site
-- )=Strict/Lax** → cross-site request me cookie hi nahi jati
+- **Set-Cookie: [SameSite](same_site)=Strict/Lax** → cross-site request me cookie hi nahi jati
 - **Set-Cookie: Secure** → cookie sirf HTTPS me jati
 - **Access-Control-Allow-Origin** → unauthorized origins se request block hoti hai
 - **Access-Control-Allow-Credentials** → credentials ke saath cross-site access control hota hai
