@@ -8,3 +8,7 @@ The core issue is classic **HTTP Request Smuggling**  a discrepancy attack where
 
 Impact :
 The impact speaks to _session isolation failures_ at scale not low-impact headers or edge errors, but **account control escalation across users** triggered via proxy parsing bugs. If you’re drilling HTTP desync/CL.TE smuggling, this is the archetype of a high-impact real-world hit
+
+Mitigation:
+Content-Length aur Transfer-Encoding dono ek sath allow mat karo.  Multiple Content-Length headers milen to request reject karo.  Malformed ya invalid chunked requests seedha drop karo.  Front-end aur back-end sab same HTTP parsing rules use karein.  
+Backend ko hamesha ek clean, normalized request hi bhejo.  Shared connections aur HTTP pipelining avoid karo.  Parsing error aate hi connection close karo.  Regularly HTTP request smuggling tests (CL.TE, TE.CL) chalao.
