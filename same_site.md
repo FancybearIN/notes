@@ -4,11 +4,11 @@ usme hote hai 3 attributes hote hai
 
 
 
-| **SameSite=None**                                             | SameSite=Lax                                                                      |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **Role:**  <br>Cookie **har cross-site request** me jayegi    | **Role:**  <br>Cookie **top-level navigation (GET)** pe jayegi                    |
-| **Use case:**<br>- SSO<br>- Third-party integrations          | **Allowed:**<br>- User link click kare                  - Address bar me URL dale |
-| **Rule:**<br>- `Secure` mandatory<br>`SameSite=None; Secure`  |                                                                                   |
-| **CSRF impact:**  <br>❌ **Sabse risky** (CSRF fully possible) |                                                                                   |
+| **SameSite=None**                                             | SameSite=Lax                                                                      | SameSite=Strict                                                                        |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Role:**  <br>Cookie **har cross-site request** me jayegi    | **Role:**  <br>Cookie **top-level navigation (GET)** pe jayegi                    | **Role:**  <br>Cookie **sirf same-site requests** me jayegi                            |
+| **Use case:**<br>- SSO<br>- Third-party integrations          | **Allowed:**<br>- User link click kare                  - Address bar me URL dale | **Allowed:**<br>- Site ke andar ke requests                                            |
+| **Rule:**<br>- `Secure` mandatory<br>`SameSite=None; Secure`  | **Blocked:**<br>- POST<br>- iframe<br>- hidden form submit                        | **Blocked:**<br>- External link<br>    <br>- Redirects<br>    <br>- Cross-site POST/GE |
+| **CSRF impact:**  <br>❌ **Sabse risky** (CSRF fully possible) | **CSRF impact:**  <br>⚠️ **Partial protection**  <br>(GET-based CSRF possible)    |                                                                                        |
 
 
