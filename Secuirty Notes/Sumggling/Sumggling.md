@@ -36,7 +36,7 @@ Result: attacker admin ke context me actions perform kar sakta tha.
 
 Zomato ke mobile API infrastructure me backend ne request body ko empty assume kiya, jabki frontend attacker ka payload backend queue me push karta raha.  
 Jab real users API calls karte the, unke **X-Access-Token** attacker ke response me leak ho jaate the.  
-Yeh ek **bulk token exfiltration** scenario tha — ek baar setup ke baad continuously data leak hota raha.
+Yeh ek **bulk token exfiltration** scenario tha ek baar setup ke baad continuously data leak hota raha.
 
 ---
 
@@ -52,33 +52,28 @@ Yeh classic example hai jahan request smuggling **direct credential theft** me c
 
 ### Basecamp (HTTP/2)
 
-HTTP/2 requests jab HTTP/1 backend me convert ho rahi thi, framing sahi tarah map nahi ho rahi thi.  
-Is downgrade bug ki wajah se attacker smuggled requests inject kar sakta tha.  
+HTTP/2 requests jab HTTP/1 backend me convert ho rahi thi, framing sahi tarah map nahi ho rahi thi.  Is downgrade bug ki wajah se attacker smuggled requests inject kar sakta tha.  
 Iska misuse request hijacking aur web cache poisoning ke liye hua.
 
 ---
 
 ### Helium
 
-Proxy aur origin server `Transfer-Encoding` ko differently parse kar rahe the.  
-Is wajah se backend attacker ke smuggled requests ko legitimate requests ki tarah execute kar raha tha.  
+Proxy aur origin server `Transfer-Encoding` ko differently parse kar rahe the.  Is wajah se backend attacker ke smuggled requests ko legitimate requests ki tarah execute kar raha tha.  
 Impact directly visible nahi tha, par **unauthorized backend actions** possible the.
 
 ---
 
 ### Mail.ru
 
-Backend ne malformed `Transfer-Encoding` headers accept kar liye.  
-Attacker ne is leniency ka use karke backend request queue me extra requests inject kiye.  
-Isse session confusion aur potential account takeover ka risk bana.
+Backend ne malformed `Transfer-Encoding` headers accept kar liye.  Attacker ne is leniency ka use karke backend request queue me extra requests inject kiye.  Isse session confusion aur potential account takeover ka risk bana.
 
 ---
 
 ### Basecamp (Cache Poisoning)
 
-Yahan attacker ne smuggled responses ko backend cache me poison kar diya.  
-Ek baar cache poison ho gaya, toh normal users ko bhi attacker-controlled responses milne lage.  
-Yeh **scale-based attack** tha — ek request, hazaaro users impacted.
+Yahan attacker ne smuggled responses ko backend cache me poison kar diya. Ek baar cache poison ho gaya, toh normal users ko bhi attacker-controlled responses milne lage.  
+Yeh **scale-based attack** tha ek request, hazaaro users impacted.
 
 ---
 
