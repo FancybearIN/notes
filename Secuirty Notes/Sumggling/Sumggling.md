@@ -1,4 +1,4 @@
-## slack 
+## slack {CL.TE}
 
 Description :
 This report described a **serious HTTP Request Smuggling issue** in Slack’s infrastructure. The researcher (defparam) crafted specially malformed HTTP requests that exploited inconsistencies between how Slack’s front-end and back-end proxies parsed requests. Because different proxy layers _disagreed on where a request body ended and the next began_, the attacker could **smuggle extra requests** into the processing queue. This allowed the attacker to **hijack authenticated connections from other customers**, effectively leading to **mass account takeovers** by pushing arbitrary requests into another user’s session context
