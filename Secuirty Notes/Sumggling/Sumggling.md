@@ -10,5 +10,6 @@ Impact :
 The impact speaks to _session isolation failures_ at scale not low-impact headers or edge errors, but **account control escalation across users** triggered via proxy parsing bugs. If you’re drilling HTTP desync/CL.TE smuggling, this is the archetype of a high-impact real-world hit
 
 Mitigation:
-Content-Length aur Transfer-Encoding dono ek sath allow mat karo.  Multiple Content-Length headers milen to request reject karo.  Malformed ya invalid chunked requests seedha drop karo.  Front-end aur back-end sab same HTTP parsing rules use karein.  
-Backend ko hamesha ek clean, normalized request hi bhejo.  Shared connections aur HTTP pipelining avoid karo.  Parsing error aate hi connection close karo.  Regularly HTTP request smuggling tests (CL.TE, TE.CL) chalao.
+Do not allow **Content-Length** and **Transfer-Encoding** together in a single request.  
+Reject requests that contain **multiple Content-Length headers**.  Immediately drop **malformed or invalid chunked requests**.   Ensure **front-end and back-end servers use the same HTTP parsing rules**.  Always forward a **clean, normalized request** to the backend.  
+Avoid **shared connections and HTTP pipelining**.  Close the connection immediately when a **parsing error** occurs.  Regularly run **HTTP request smuggling tests** (CL.TE, TE.CL).
