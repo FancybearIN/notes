@@ -31,13 +31,10 @@
 
 1. **Auth cookie pe `SameSite=Lax` ya `Strict` lagao**  
     → cross-site request me cookie hi nahi jayegi
-    
 2. **Har state-changing request me CSRF token verify karo**  
     → attacker valid token generate nahi kar sakta
-    
 3. **`Origin` header validate karo (whitelist)**  
     → request trusted site se aayi ya nahi
-    
 4. **GET request ko kabhi state-change ke liye use mat karo**  
     → GET CSRF easy hota hai
     
