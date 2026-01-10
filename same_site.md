@@ -11,6 +11,6 @@ usme hote hai 3 attributes hote hai.
 
 
 
-| WHEN SAMESITE  = LAX |     |
-| -------------------- | --- |
-|                      |     |
+| WHEN SAMESITE  = LAX |
+| -------------------- |
+|                      |
