@@ -10,3 +10,7 @@ usme hote hai 3 attributes hote hai.
 | **CSRF impact:**  <br>❌ **Sabse risky** (CSRF fully possible) | **CSRF impact:**  <br>⚠️ **Partial protection**  <br>(GET-based CSRF possible)    | **CSRF impact:**  <br>✅ **Strong protection**                            |
 
 
+
+| WHEN SAMESITE  = LAX |     |
+| -------------------- | --- |
+|                      |     |
