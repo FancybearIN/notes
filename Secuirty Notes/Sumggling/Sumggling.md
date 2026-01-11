@@ -2,4 +2,6 @@ HTTP request smuggling is a technique for interfering with the way a web site pr
 
 ## What happens in an HTTP request smuggling attack?
 
- Content-lenght : Is a header tell size of the server how bigger request bo
+ Content-lenght : Is a header tell size of the server how bigger request body.
+
+http parasing is way of tell the server figure out 
