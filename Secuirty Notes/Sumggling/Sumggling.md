@@ -2,4 +2,4 @@ HTTP request smuggling is a technique for interfering with the way a web site pr
 
 ## What happens in an HTTP request smuggling attack?
 
-
+ 
