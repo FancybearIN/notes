@@ -14,11 +14,11 @@
     - the signature is used to verify that the token was not changed. 
     
 3. What information is stored inside a JWT?
-		- A JWT stores user-related information called claims. This usually includes details like the user ID, role, permissions, issued time, and expiration time.
-		- It does not store passwords or sensitive data. Anything inside a JWT can be read by anyone, so it should only contain information that is safe to expose and is protected mainly by the signature.
+		-   A JWT stores user-related information called claims. This usually includes details like the user ID, role, permissions, issued time, and expiration time.
+		-    It does not store passwords or sensitive data. Anything inside a JWT can be read by anyone, so it should only contain information that is safe to expose and is protected mainly by the signature.
     
 4. Is JWT encrypted or just encoded?
-    
+	    
 5. What is the purpose of the signature in a JWT?
     
 6. What happens if someone changes the payload of a JWT?
