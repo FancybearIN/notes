@@ -29,4 +29,6 @@ the same secret key is used to create and verify the signature. The server signs
 # In asymmetric key JWT,
 the server uses a private key to create the signature, and only a public key is used to verify it. Even though anyone can see the public key, it cannot be used to create a valid signature. If an attacker changes the data, they cannot generate a new valid signature because they do not have the private key. That is why asymmetric JWT is safer.
 
-Algorithm-based attacks happen only when the server trusts what the token says about the algorithm. If the server blindly accepts a changed algorithm, it may use the wrong key to verify the signature. In a properly configured system, the server fixes the algorithm and key in advance, so changing the algorithm or payload always breaks the signature and the token is rejected.
+Algorithm-based attacks happen only when the server trusts what the token says about the algorithm. If the server blindly accepts a changed algorithm, it may use the wrong key to verify the signature. In a properly configured system, 
+
+the server fixes the algorithm and key in advance, so changing the algorithm or payload always breaks the signature and the token is rejected.
