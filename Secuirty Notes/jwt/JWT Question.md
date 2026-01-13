@@ -19,7 +19,7 @@
     
 4. Is JWT encrypted or just encoded?
 	    JWT is not encrypted by default, it is only encoded.
-	    The header and payload are Base64-encoded, which means anyone can decode and read them. Security comes from the signature, which prevents the data from being changed, not from hiding the data.
+	    The header and payload are Base64-encoded, which means anyone can decode and read them. [Security comes from the signature,](security_at_signature_in_wt) which prevents the data from being changed, not from hiding the data.
 5. What is the purpose of the signature in a JWT?
     
 6. What happens if someone changes the payload of a JWT?
