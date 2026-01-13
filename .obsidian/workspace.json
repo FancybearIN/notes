@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,8 +241,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "dbd258c447facc8b",
+  "active": "31458050ee9805cc",
   "lastOpenFiles": [
+    "Secuirty Notes/jwt",
+    "Secuirty Notes/Sumggling/Sumggling.md",
     "same_site.md",
     "CSRF - HEADER.md",
     "Secuirty Notes/CSRF/csrf.md",
@@ -265,14 +267,12 @@
     "notes/Android/Androgoat.md",
     "bug bounty/One linear.md",
     "Web3.md",
-    "Secuirty Notes/Sumggling/Sumggling.md",
     "Secuirty Notes/Sumggling",
     "Untitled.base",
     "bug bounty/How TO Hunt.md",
     "Request Sumggling.md",
     "Interview Questions.pdf",
     "jadx.md",
-    "bug bounty/dsar_bug_bounty_notes.md",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "Pasted image 20250918115304.png",
     "Pasted image 20250918115145.png",
