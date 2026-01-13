@@ -18,7 +18,8 @@
 		-    It does not store passwords or sensitive data. Anything inside a JWT can be read by anyone, so it should only contain information that is safe to expose and is protected mainly by the signature.
     
 4. Is JWT encrypted or just encoded?
-	    
+	    JWT is not encrypted by default, it is only encoded.
+	    The header and payload are Base64-encoded, which means anyone can decode and read them. Security comes from the signature, which prevents the data from being changed, not from hiding the data.
 5. What is the purpose of the signature in a JWT?
     
 6. What happens if someone changes the payload of a JWT?
