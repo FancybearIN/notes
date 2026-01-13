@@ -39,4 +39,5 @@ Mitigation
 - Sever must never trust the algo in jwt. it should be hard coded to accept only one expected algo. (RS256).
 - algo changed token immediately fail verification.
 -  server should not mix both symmetric & asymmetric key.
-- Public keys should only be used for verification
+- Public keys should only be used for verification, never as secrets.
+- changing the algorithm or signature always breaks the token and the attack fails.
