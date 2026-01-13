@@ -36,4 +36,5 @@ the server fixes the algorithm and key in advance, so changing the algorithm or 
 Mitigation 
 
 - Strict control on how the JWT is verified.
-- Sever 
+- Sever must never trust the algo in jwt. it should be hard coded to accept only one expected algo. (RS@%^)
+- 
