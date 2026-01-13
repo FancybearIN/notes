@@ -1,7 +1,7 @@
 
 1. What is a JWT and why is it used?
 	    A JWT (JSON Web Token) is a small token used to securely send user information between a client and a server. It is mainly used for authentication, so once a user logs in, the server gives a JWT and the user sends it with every request instead of logging in again.
-	    - It is used because it is fast, stateless, and easy to verify. The server does not need to store session data, and it can trust the token as long as the signature is valid.
+	    - It is used because it is fast, [stateless](stateless), and easy to verify. The server does not need to store session data, and it can trust the token as long as the signature is valid.
 2. What are the three parts of a JWT?
     
 3. What information is stored inside a JWT?

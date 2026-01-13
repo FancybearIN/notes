@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secuirty Notes/jwt/JWT Question.md",
+                "file": "stateless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT Question"
+              "title": "stateless"
             }
           },
           {
@@ -257,8 +257,9 @@
   },
   "active": "b87d0b464e5bbad1",
   "lastOpenFiles": [
-    "Untitled.md",
     "Secuirty Notes/jwt/JWT Question.md",
+    "stateless.md",
+    "Untitled.md",
     "Web3.md",
     "Secuirty Notes/jwt",
     "Secuirty Notes/Sumggling/Sumggling.md",
@@ -286,7 +287,6 @@
     "Secuirty Notes/Sumggling",
     "Untitled.base",
     "bug bounty/How TO Hunt.md",
-    "Request Sumggling.md",
     "Interview Questions.pdf",
     "notes/interview content/assets/Screenshot 2025-03-11 190837.png",
     "Pasted image 20250918115304.png",
