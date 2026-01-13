@@ -7,12 +7,15 @@
 	 A JWT has three parts: 
 	 the header, the payload, and the signature.
 
-
-    - The header tells which algorithm is used to sign the token, 
+    - The header tells which algorithm is used to sign the token,
+ 
     - the payload contains the user data and claims,
-    - 
+  
     - the signature is used to verify that the token was not changed. 
+    
 3. What information is stored inside a JWT?
+		- A JWT stores user-related information called claims. This usually includes details like the user ID, role, permissions, issued time, and expiration time.
+		- It does not store passwords or sensitive data. Anything inside a JWT can be read by anyone, so it should only contain information that is safe to expose and is protected mainly by the signature.
     
 4. Is JWT encrypted or just encoded?
     
