@@ -38,4 +38,5 @@ Mitigation
 - Strict control on how the JWT is verified.
 - Sever must never trust the algo in jwt. it should be hard coded to accept only one expected algo. (RS256).
 - algo changed token immediately fail verification.
--  server should b
+-  server should not mix both symmetric & asymmetric key.
+- Public keys should only be used for verification
