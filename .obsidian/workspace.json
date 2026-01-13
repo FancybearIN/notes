@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "security_at_signature_in_wt.md",
+                "file": "Secuirty Notes/jwt/JWT Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "security_at_signature_in_wt"
+              "title": "JWT Question"
             }
           },
           {
@@ -257,8 +257,8 @@
   },
   "active": "b87d0b464e5bbad1",
   "lastOpenFiles": [
-    "Secuirty Notes/jwt/JWT Question.md",
     "security_at_signature_in_wt.md",
+    "Secuirty Notes/jwt/JWT Question.md",
     "stateless.md",
     "Untitled.md",
     "Web3.md",
